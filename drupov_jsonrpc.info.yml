@@ -1,0 +1,5 @@
+name: Drupov JSON-RPC
+description: Drupal 8 JSON-RPC plugin demo module.
+package: Custom
+core: 8.x
+type: module
